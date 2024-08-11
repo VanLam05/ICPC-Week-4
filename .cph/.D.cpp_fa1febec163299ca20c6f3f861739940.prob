@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"/Users/apple/Documents/icpcw4/D.cpp","tests":[{"id":1723381617517,"input":"5\n0 0 0 0 0\n2 2 2 2 2","output":""},{"id":1723382770581,"input":"8\n1 2 1 2 1 2 1 2\n2 1 2 1 2 1 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Documents/icpcw4/D.cpp","group":"local","local":true}
